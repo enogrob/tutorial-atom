@@ -15,9 +15,9 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
-[ ] Atom Editor Tutorials - Series Introduction 0:53
-[ ] Atom Editor Tutorials #1 - Installing Atom 3:59
-[ ] Atom Editor Tutorials #2 - Atom Settings & Preferences 6:35
+[x] Atom Editor Tutorials - Series Introduction 0:53
+[x] Atom Editor Tutorials #1 - Installing Atom 3:59
+[x] Atom Editor Tutorials #2 - Atom Settings & Preferences 6:35
 [ ] Atom Editor Tutorials #3 - The Atom Interface with Tricks & Tips 4:43
 [ ] Atom Editor Tutorials #4 - Installing and Changing Color Schemes 5:49
 [ ] Atom Editor Tutorials #5 - Installing & Adding UI Themes 5:35
